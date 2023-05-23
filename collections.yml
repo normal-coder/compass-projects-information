@@ -21,6 +21,7 @@
   name_cn: 大数据
   items:
     - big-data # 大数据
+    
 - ident: development-framework
   name: Development Framework
   name_cn: 开发框架
@@ -124,6 +125,7 @@
     - vim-derived-editors # Vim 衍生编辑器
     - vim-plug-ins # Vim 插件
     - zsh-plugin # ZSH 插件
+
 - ident: software-development-library
   name: Software development library
   name_cn: 软件开发库
@@ -140,9 +142,9 @@
     - pwa-library # PWA 开发库
     - qr-code-library # 二维码解析生成库
     - repl-toolkit # REPL 工具包
-    - wms # 仓库管理系统（WMS）
+#    - wms # 仓库管理系统（WMS）  迁到行业应用
     - syntax-highlighting # 语法高亮
-    - template-engine # 模板引擎
+#    - template-engine # 模板引擎  迁到实用工具
     - tokenizer # 分词器
     - web-popup-component # Web 弹窗组件
 - ident: hardware
